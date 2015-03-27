@@ -1,3 +1,6 @@
 [submodule "BCW_Client_Android"]
 	path = BCW_Client_Android
 	url = https://github.com/AccidentalIntelligence/BCW_Client_Android.git
+[submodule "BCW_Server"]
+	path = BCW_Server
+	url = https://github.com/AccidentalIntelligence/BCW_Server.git
